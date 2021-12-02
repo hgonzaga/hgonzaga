@@ -1,6 +1,8 @@
-### Hi there 👋
+![dark-logo](https://user-images.githubusercontent.com/62557212/144508064-3d9b49b4-c258-492c-a252-95626055722b.png)
 
 <!--
+### Hi there 👋
+
 **hgonzaga/hgonzaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
